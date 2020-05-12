@@ -9,13 +9,15 @@ h1 {
     text-align: center;
     
 }
-
-<<<<<<< HEAD
 hr {
-    border-top: black;
-}
-=======
->>>>>>> new-branch-html
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
 
 img {
     float: left;
